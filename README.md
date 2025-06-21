@@ -1,5 +1,3 @@
-# tire-list-creator
-
 # 🏁 Tire List Creator
 
 A simple, responsive web application that allows users to create custom **tier lists** by uploading images and dragging them into different tier categories. Built using **HTML, CSS, and JavaScript**, this project demonstrates DOM manipulation, event handling, and drag-and-drop functionality.
@@ -36,7 +34,12 @@ This project is ideal for learning or showcasing practical JavaScript skills, es
 
 ## 📸 Screenshots
 
-> You can use the 
+Here are some previews of the app in action:
+
+![Tier List Creator Screenshot 1](image1.jpg)
+![Tier List Creator Screenshot 2](image2.jpg)
+![Tier List Creator Screenshot 3](image3.jpg)
+![Tier List Creator Screenshot 4](image4.jpg)
 
 ---
 
